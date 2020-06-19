@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "992bb339002e19f0e41ce45e9bc1afc9",
+    "revision": "d503c04059d010a76907e1ecbd50251f",
     "url": "/goodbyefrog/index.html"
   },
   {
-    "revision": "27453338fd0705242bc2",
+    "revision": "872ee6bb7bf9296d0c58",
     "url": "/goodbyefrog/static/css/main.8cf6af44.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goodbyefrog/static/js/2.c9917a6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27453338fd0705242bc2",
-    "url": "/goodbyefrog/static/js/main.4e197486.chunk.js"
+    "revision": "872ee6bb7bf9296d0c58",
+    "url": "/goodbyefrog/static/js/main.8700e24b.chunk.js"
   },
   {
     "revision": "39344000d2f2f92aab2a",

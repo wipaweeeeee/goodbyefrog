@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goodbyefrog/static/css/main.8cf6af44.chunk.css",
-    "main.js": "/goodbyefrog/static/js/main.4e197486.chunk.js",
-    "main.js.map": "/goodbyefrog/static/js/main.4e197486.chunk.js.map",
+    "main.js": "/goodbyefrog/static/js/main.8700e24b.chunk.js",
+    "main.js.map": "/goodbyefrog/static/js/main.8700e24b.chunk.js.map",
     "runtime-main.js": "/goodbyefrog/static/js/runtime-main.68506e82.js",
     "runtime-main.js.map": "/goodbyefrog/static/js/runtime-main.68506e82.js.map",
     "static/js/2.c9917a6f.chunk.js": "/goodbyefrog/static/js/2.c9917a6f.chunk.js",
     "static/js/2.c9917a6f.chunk.js.map": "/goodbyefrog/static/js/2.c9917a6f.chunk.js.map",
     "index.html": "/goodbyefrog/index.html",
-    "precache-manifest.5922f617aa321187b030095e72dae688.js": "/goodbyefrog/precache-manifest.5922f617aa321187b030095e72dae688.js",
+    "precache-manifest.815e099a97d7ff8c42b5f1ac63e7e12e.js": "/goodbyefrog/precache-manifest.815e099a97d7ff8c42b5f1ac63e7e12e.js",
     "service-worker.js": "/goodbyefrog/service-worker.js",
     "static/css/main.8cf6af44.chunk.css.map": "/goodbyefrog/static/css/main.8cf6af44.chunk.css.map",
     "static/js/2.c9917a6f.chunk.js.LICENSE.txt": "/goodbyefrog/static/js/2.c9917a6f.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.68506e82.js",
     "static/js/2.c9917a6f.chunk.js",
     "static/css/main.8cf6af44.chunk.css",
-    "static/js/main.4e197486.chunk.js"
+    "static/js/main.8700e24b.chunk.js"
   ]
 }
