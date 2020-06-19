@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom'
-import React, { Suspense, useRef, useState, useMemo } from 'react'
+import React, { Suspense, useRef, useState, useMemo, useEffect } from 'react'
 import { Canvas, useFrame, useLoader } from 'react-three-fiber'
 import { TextureLoader, LinearFilter } from "three"
 import img0 from './assets/frog_0.png';
@@ -123,6 +123,25 @@ const Text = (props) => {
 const App = () => {
 
   const [ count, setCount ] = useState(0);
+  const [ mobile, setMobile ] = useState();
+
+  const handleResize = () => {
+    if (window.innerWidth < 768) {
+      setMobile(true);
+    } else {
+      setMobile(false);
+    }
+  }
+
+  useEffect(() => {
+
+      handleResize();
+      window.addEventListener('resize', handleResize);
+
+      return () => {
+        window.removeEventListener('resize', handleResize);
+      }
+  })  
 
   if ( count > 6) {
     setCount(0);
@@ -140,12 +159,19 @@ const App = () => {
           CLICK TO CONTINUE
       </div>
     }
-    <Text count={count}/>
-    <Canvas pixelRatio={1} camera={{position: [0, 0, 6.5]}}>
-      <Suspense fallback={null}>
-        <Box onClick={e => setCount(count+1)} count={count}/>
-      </Suspense>
-    </Canvas>
+    { !mobile && 
+        <React.Fragment>
+          <Text count={count}/>
+          <Canvas pixelRatio={1} camera={{position: [0, 0, 6.5]}}>
+            <Suspense fallback={null}>
+              <Box onClick={e => setCount(count+1)} count={count}/>
+            </Suspense>
+          </Canvas>
+        </React.Fragment>
+    }
+    { mobile && 
+      <p className="eyebrow" style={{ top: '50%', left: '48px'}}>For better experience, view on desktop.</p>
+    }
     </div>
   )
 }
