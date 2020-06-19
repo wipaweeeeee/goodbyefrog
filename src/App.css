@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Titling-Extended';
+  src: url('./assets/TitlingGothicFBExtendedBold.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Titling';
+  src: url('./assets/TitlingGothicFBNormalMedium.otf') format('truetype');
+}
+
+h1 {
+  font-family: 'Titling-Extended';
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+  font-size: 72px;
+  margin-bottom: 20px;
+  letter-spacing: 3px;
+  line-height: 86px;
+}
+
+body {
+  font-family: 'Titling';
+}
+
+p {
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.8px;
+}
+
+a {
+  color: white;
+}
+
+.eyebrow {
+  font-family: 'Titling-Extended';
+  position: absolute;
+  color: white;
+  font-size: 10px;
+  z-index: 5;
+  cursor: default;
+}
+
+.textContainer {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
+
+.text {
+  color: white;
+  width: 100%;
+  z-index: 3;
+  text-align: center;
+}
+
+.text h1 {
+  text-transform: uppercase;
+}
+
+.text p {
+  width: 450px;
+  margin: auto;
+}
+
