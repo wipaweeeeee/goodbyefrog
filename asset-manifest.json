@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/goodbyefrog/static/css/main.8cf6af44.chunk.css",
-    "main.js": "/goodbyefrog/static/js/main.46974623.chunk.js",
-    "main.js.map": "/goodbyefrog/static/js/main.46974623.chunk.js.map",
+    "main.js": "/goodbyefrog/static/js/main.4e197486.chunk.js",
+    "main.js.map": "/goodbyefrog/static/js/main.4e197486.chunk.js.map",
     "runtime-main.js": "/goodbyefrog/static/js/runtime-main.68506e82.js",
     "runtime-main.js.map": "/goodbyefrog/static/js/runtime-main.68506e82.js.map",
     "static/js/2.c9917a6f.chunk.js": "/goodbyefrog/static/js/2.c9917a6f.chunk.js",
     "static/js/2.c9917a6f.chunk.js.map": "/goodbyefrog/static/js/2.c9917a6f.chunk.js.map",
     "index.html": "/goodbyefrog/index.html",
-    "precache-manifest.732db909292033674dc89b6ed2e34f4e.js": "/goodbyefrog/precache-manifest.732db909292033674dc89b6ed2e34f4e.js",
+    "precache-manifest.452a652d8aa4357ef397b5efaf7fcc85.js": "/goodbyefrog/precache-manifest.452a652d8aa4357ef397b5efaf7fcc85.js",
     "service-worker.js": "/goodbyefrog/service-worker.js",
     "static/css/main.8cf6af44.chunk.css.map": "/goodbyefrog/static/css/main.8cf6af44.chunk.css.map",
     "static/js/2.c9917a6f.chunk.js.LICENSE.txt": "/goodbyefrog/static/js/2.c9917a6f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/goodbyefrog/static/media/TitlingGothicFBNormalMedium.b462828d.otf",
     "static/media/disp.jpeg": "/goodbyefrog/static/media/disp.ac0814dc.jpeg",
     "static/media/frog_0.png": "/goodbyefrog/static/media/frog_0.c139449a.png",
-    "static/media/frog_1.png": "/goodbyefrog/static/media/frog_1.826d0dbc.png",
-    "static/media/frog_2.png": "/goodbyefrog/static/media/frog_2.8a55f06e.png",
-    "static/media/frog_3.png": "/goodbyefrog/static/media/frog_3.531aef4a.png",
-    "static/media/frog_4.png": "/goodbyefrog/static/media/frog_4.908d7b38.png",
-    "static/media/frog_5.png": "/goodbyefrog/static/media/frog_5.ddf048fe.png",
-    "static/media/frog_6.png": "/goodbyefrog/static/media/frog_6.7b740738.png"
+    "static/media/frog_1.png": "/goodbyefrog/static/media/frog_1.35363a46.png",
+    "static/media/frog_2.png": "/goodbyefrog/static/media/frog_2.eb3f0fc8.png",
+    "static/media/frog_3.png": "/goodbyefrog/static/media/frog_3.be350f2d.png",
+    "static/media/frog_4.png": "/goodbyefrog/static/media/frog_4.deb1cdff.png",
+    "static/media/frog_5.png": "/goodbyefrog/static/media/frog_5.f05a9a6a.png",
+    "static/media/frog_6.png": "/goodbyefrog/static/media/frog_6.eb4569cd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.68506e82.js",
     "static/js/2.c9917a6f.chunk.js",
     "static/css/main.8cf6af44.chunk.css",
-    "static/js/main.46974623.chunk.js"
+    "static/js/main.4e197486.chunk.js"
   ]
 }

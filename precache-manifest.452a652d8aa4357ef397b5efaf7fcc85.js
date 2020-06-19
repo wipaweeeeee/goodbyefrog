@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e823e828130cb99298676a7c0154c9b4",
+    "revision": "bfa00050f5f3a05c5d30ace37c46afc1",
     "url": "/goodbyefrog/index.html"
   },
   {
-    "revision": "18fbd18df0ab1626bc29",
+    "revision": "27453338fd0705242bc2",
     "url": "/goodbyefrog/static/css/main.8cf6af44.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goodbyefrog/static/js/2.c9917a6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18fbd18df0ab1626bc29",
-    "url": "/goodbyefrog/static/js/main.46974623.chunk.js"
+    "revision": "27453338fd0705242bc2",
+    "url": "/goodbyefrog/static/js/main.4e197486.chunk.js"
   },
   {
     "revision": "39344000d2f2f92aab2a",
@@ -40,27 +40,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goodbyefrog/static/media/frog_0.c139449a.png"
   },
   {
-    "revision": "826d0dbc383081798646265509e031b4",
-    "url": "/goodbyefrog/static/media/frog_1.826d0dbc.png"
+    "revision": "35363a46ad3d1c6b443e921fe60f5e41",
+    "url": "/goodbyefrog/static/media/frog_1.35363a46.png"
   },
   {
-    "revision": "8a55f06e9820e92ae5ba9bfed9e88e56",
-    "url": "/goodbyefrog/static/media/frog_2.8a55f06e.png"
+    "revision": "eb3f0fc826b729a4ec43f4659465e940",
+    "url": "/goodbyefrog/static/media/frog_2.eb3f0fc8.png"
   },
   {
-    "revision": "531aef4ae81171bd9dce8e0acab7a7d0",
-    "url": "/goodbyefrog/static/media/frog_3.531aef4a.png"
+    "revision": "be350f2dde5c2afe936219ecb59e6416",
+    "url": "/goodbyefrog/static/media/frog_3.be350f2d.png"
   },
   {
-    "revision": "908d7b3862e376d819ceaa2744eafdb7",
-    "url": "/goodbyefrog/static/media/frog_4.908d7b38.png"
+    "revision": "deb1cdff0acebb4f02b00fa7c7617abf",
+    "url": "/goodbyefrog/static/media/frog_4.deb1cdff.png"
   },
   {
-    "revision": "ddf048fe71ebad72d6ec867775b1b5d1",
-    "url": "/goodbyefrog/static/media/frog_5.ddf048fe.png"
+    "revision": "f05a9a6a5ba5f147d09b695e349e9209",
+    "url": "/goodbyefrog/static/media/frog_5.f05a9a6a.png"
   },
   {
-    "revision": "7b740738087b094249af28bb42656d0b",
-    "url": "/goodbyefrog/static/media/frog_6.7b740738.png"
+    "revision": "eb4569cdb98902677381be33890d27ae",
+    "url": "/goodbyefrog/static/media/frog_6.eb4569cd.png"
   }
 ]);
